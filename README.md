@@ -1,3 +1,3 @@
-# F5Soft's GitHub Page
+# f5soft.github.io
 
-Just redirect https://f5soft.github.io to https://f5soft.site
+Redirect to https://f5soft.site
